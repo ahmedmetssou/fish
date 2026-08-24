@@ -1,6 +1,6 @@
 {
   "ADS": {
-    "ENABLED": false,
+    "ENABLED": true,
     "NETWORK": "ADMOB",
     "TEST_MODE": true,
 
